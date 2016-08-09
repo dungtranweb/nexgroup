@@ -1,0 +1,14 @@
+// compileNested, nestedFilenamePattern: ../css/style.css
+// sourceMap: true ../css/style.css.map
+
+// import partials
+@import "reset";
+@import "variables";
+@import "mixin";
+// end import
+
+
+
+// mobile
+@import "mobile";
+// end mobile

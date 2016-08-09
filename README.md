@@ -1,2 +1,2 @@
 # nexgroup
-front-and for Nex page
+front-end for Nexx.vn
